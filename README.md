@@ -1,11 +1,11 @@
-# mlai-hacknight-project
+# MLAI Hacknight Project
 
-MLAI Hacknight Project
+### [Current Status] - Need to complete cleaning and formatting of data
 
 Our learning hacking project is to train a neural network to tell the difference between
 photos of different people in the group.
 
-We are keeping it simple at first 
+We are keeping it simple at first
 
 Basic Steps
 
